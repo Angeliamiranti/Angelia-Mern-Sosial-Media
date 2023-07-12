@@ -1,2 +1,2 @@
 # Angelia-Mern-Sosial-Media
-ini adalah tugas membuat aplikasi mern social media 
+aplikasi ini adalah aplikasi untuk tugas mandiri dan tugas proyek akhir pada mata kuliah Full stcak programming  
